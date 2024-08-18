@@ -1,5 +1,7 @@
 Mental Health Data Analysis in Estonia (1990-2017)
 
+
+
 Introduction
 
 This project focuses on analyzing trends in mental health disorders in Estonia between 1990 and 2017, comparing these trends to global averages. Using a comprehensive dataset, the analysis explores the prevalence of various mental health disorders, such as depression, anxiety, and drug use disorders. The study also delves into how major socio-economic and political events in Estonia have influenced these trends over time.
